@@ -8,7 +8,7 @@ and providing actionable recommendations for improving the product and customer 
 
 ## Objectives
 
-- **Collect** at least 150 customer reviews for the iPhone 15 128GB model from Flipkart's product page.
+- **Collect** at least 160 customer reviews for the iPhone 15 128GB model from Flipkart's product page.
 - **Clean and preprocess** the data to ensure high-quality information for analysis.
 - **Perform sentiment analysis** on the reviews using TextBlob.
 - **Analyze** the sentiment distribution, review patterns, and extract key insights.
@@ -28,7 +28,7 @@ and providing actionable recommendations for improving the product and customer 
 
 **Tools**: Selenium, BeautifulSoup
 
-- **Task**: Scrape at least 150 customer reviews for the iPhone 15 128GB model.
+- **Task**: Scrape at least 160 customer reviews for the iPhone 15 128GB model.
 - **Details Collected**:
   - **Username**: The name of the reviewer.
   - **Rating**: The rating provided by the user (1 to 5 stars).
